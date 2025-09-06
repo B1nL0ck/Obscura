@@ -20,15 +20,13 @@ Makefile -> just type make to build everything
 1-Build
 /make
 -This will build the loader and the modules.
--
+
 2-Run 
 /loader [filename]
--
+
 
 3-Example :
 /loader Mysecret.txt
--
-
 
 Why the name?
 Because the tool hides / protects files (like something obscure or hidden).
